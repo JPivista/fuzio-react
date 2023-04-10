@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+    font-family: 'Dosis', sans-serif;
+    src: url('/public/font/Lato-Regular.otf');
+} */
+/* .lato-regular {
+    font-family: 'Lato', sans-serif;
+}
+
+#root {
+    font-family: 'Lato', sans-serif;
+    
+} */
+
+h5 {
+    font-family: 'Dosis', sans-serif;
+}
+
+html,
+body {
+   padding: 0;
+   margin: 0;
+   font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,p {
+    font-family: 'Lato', sans-serif;
+}
