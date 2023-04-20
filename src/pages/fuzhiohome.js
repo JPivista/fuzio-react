@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
 import Slider from "react-slick";
-import css from 'styled-jsx/css';
 
 const FuzhioHome = () => {
     const settings = {
@@ -19,7 +18,7 @@ const FuzhioHome = () => {
                     <img src='https://fuzhio.org/wp-content/uploads/2021/09/4293117.jpg' width="100%" height="100vh"></img>
                 </div> */}
                 <div className='w-[1440px]'>
-                    <h5 className='lg:text-[80px] text-white font-light'>Making markets work for vulnerable communities</h5>
+                    <h5 className='lg:text-[80px] text-white font-light font-dosis'>Making markets work for vulnerable communities</h5>
                 </div>
 
             </div>
