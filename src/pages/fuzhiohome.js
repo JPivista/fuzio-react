@@ -144,9 +144,9 @@ const FuzhioHome = () => {
                         <div>
                             <img src='https://fuzhio.org/wp-content/uploads/2021/09/3-1.png'></img>
                         </div>
-                        <div>
+                        {/* <div>
                             <img src='https://fuzhio.org/wp-content/uploads/2021/09/5-1.png'></img>
-                        </div>
+                        </div> */}
                     </Slider>
                 </div>
             </div>
